@@ -43,4 +43,4 @@ $ npm run start:prod
 
 ## License
 
-Nest is [MIT licensed](LICENSE).
+ZukiTS is [MIT licensed](LICENSE).
