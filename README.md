@@ -1,4 +1,4 @@
-# GPT API TEMPLATE
+# ZukiTS GPT API TEMPLATE
 
 ## Description
 
